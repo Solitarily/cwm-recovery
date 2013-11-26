@@ -33,7 +33,7 @@
 #ifdef BOARD_USE_CUSTOM_RECOVERY_FONT
 #include BOARD_USE_CUSTOM_RECOVERY_FONT
 #else
-#include "font_10x18.h"
+#include "fontcn_15x24.h"
 #endif
 
 #include "chinese.h"
